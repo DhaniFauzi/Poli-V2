@@ -1,3 +1,7 @@
+#Nama Anggota Kelompok
+#Muhamad Shuro Fadhillah 19090072 (6D)
+#Ramadhani Fauzi Azhar 19090118 (6D)
+
 import os
 from flask_bcrypt import Bcrypt
 from flaskext.mysql import MySQL
